@@ -1,26 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ahmed Cherik</h1>
+<div align="center">
+  <img height="230" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+<h1 align="center">
+    <img height="113" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+    Hello there 👋, I'm Ahmed Cherik 
+    <img height="113" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+</h1> 
+
 <p align="center">
   🎓 AI Master Graduate | 🤖 AI & IoT Researcher | 📊 Data Science Enthusiast  
 </p>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 <p align="center">
-  <a href="mailto:ahmedcherik302@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-cherik-12ab19252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahmedcherik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:ahmedcherik999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-cherik-12ab19252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ahmedcherik">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://kaggle.com/ahmedcherik">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=midkab&label=Profile%20views&color=0e75b6&style=flat" alt="midkab" /> </p>
 
----
+
 
 ## 🚀 About Me
 
 * Location: Algeria 🇩🇿
 * Master: Artificial Intelligence (Université Akli Mohand Oulhadj)
 * Bachelor: Computer Science (Université Akli Mohand Oulhadj)
+  <div align="center">
+    <img height="100" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
+  </div>
 * Interests:
   - Data Science & Analytics
   - Computer Vision & 3D Modeling
